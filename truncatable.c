@@ -1,3 +1,6 @@
+//PROJECT EULER #10
+
+
 #include<stdio.h>
 #include<string.h>
 #include<math.h>

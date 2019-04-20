@@ -1,4 +1,4 @@
-#PROJECT-EULER #37 Truncatable Primes
+//PROJECT-EULER #37 Truncatable Primes
 
 #include <math.h>
 #include <stdio.h>
